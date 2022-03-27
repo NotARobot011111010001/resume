@@ -2,7 +2,7 @@
 
 _Soon to be Software Engineer studying in United Kingdom_
 
-[GitHub](https://github.com/NotARobot011111010001) / [Email](mailto:hazigul12@gmail.com) / [Resume](https://notarobot011111010001.github.io/resume/)
+[GitHub](https://github.com/NotARobot011111010001) / [Email](mailto:hazigul12@gmail.com) / [Resume](https://notarobot011111010001.github.io/resume/) / [Kaggle](https://www.kaggle.com/notarobot011111/)
 
 ## Programming & Computer Skills
 
